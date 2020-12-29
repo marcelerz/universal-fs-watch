@@ -1,12 +1,12 @@
 {
 	"name": "universal-fs-watch",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A universal FS watcher utilizing fb-watchman when available and falls back on Chokidar.",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"dependencies": {
 		"chokidar": "^3.4.3",
-		"sundryjs": "^0.1.1",
+		"sundryjs": "^0.1.2",
 		"watchman-wrapper": "^1.0.1"
 	},
 	"devDependencies": {
